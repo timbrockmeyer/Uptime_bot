@@ -41,7 +41,7 @@ def send_message(context):
 
     context.bot.send_message(chat_id=chat_id, text=msg)
 
-updater = Updater("1528330919:AAEh7J5DALxZ7S78cPPynvXU-5_k8kOrljg")
+updater = Updater("BOT_TOKEN")
 
 # Get the dispatcher to register handlers
 dp = updater.dispatcher
