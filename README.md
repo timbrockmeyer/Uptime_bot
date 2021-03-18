@@ -3,4 +3,5 @@
 
 Script that tracks the internet up and downtime during the day and sends scheduled status reports via telegram. </br>
 Bot can be created at https://t.me/botfather. </br>
-After bot creation, send **/start** or **/stop** to beginn or end the reporting.
+After bot creation, add your bot token to the config file. </br>
+Send **/start** or **/stop** to beginn or end the reporting.
