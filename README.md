@@ -1,4 +1,4 @@
-# Uptime_bot
+## Uptime_bot
 ### Telegram bot that sends scheduled messages about internet connectivity uptime.
 
 Script that tracks the internet up and downtime during the day and sends scheduled status reports via telegram. </br>
