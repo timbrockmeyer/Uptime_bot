@@ -5,6 +5,6 @@
 - Bot can be created at https://t.me/botfather. </br> </br>
 - After bot creation, add your bot token to the config file and run </br>
 ``` 
-> python uptimebot.py
+> python uptime_bot.py
 ```
 - Send **/start** or **/stop**  in your bot's chat to beginn or end the reporting.
